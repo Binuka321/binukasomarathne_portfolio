@@ -8,17 +8,25 @@ import "tailwindcss";
 const navItems = ["home", "about", "journal", "career","projects", "cv", "certificates"];
 
 const journalItems = [
-  "Learned the importance of business and social etiquette, including professionalism, punctuality, and respectful communication. This helped me understand how first impressions impact workplace relationships.",
+"Developed hands-on experience in software development by working on real-world client projects during my internship, where I learned how to design, develop, test, and maintain web applications in a professional environment.",
 
-  "Improved my personal grooming and self-presentation. I realized that confidence, hygiene, and dressing appropriately are essential in building a professional image.",
+"Improved my technical skills in WordPress, PHP, React.js, JavaScript, HTML, CSS, and Tailwind CSS through the development of client websites and academic projects.",
 
-  "Developed strong business communication skills including presentation techniques, CV preparation, and proposal writing. These skills are important for expressing ideas clearly in a professional environment.",
+"Strengthened my communication and teamwork abilities by collaborating with developers, designers, project managers, and clients to gather requirements and deliver successful project outcomes.",
 
-  "Gained knowledge about corporate interview skills. Practiced answering questions, improved confidence, and learned how to present myself effectively to employers.",
+"Gained practical experience in client-based web development through projects such as the Farade Education Website and EC Physics Website for Erendra Chrysanthus Sir, where I was responsible for development, customization, and implementing user requirements.",
 
-  "Understood how to conduct and participate in meetings. Learned about agendas, teamwork, and how to communicate ideas clearly within a group.",
+"Enhanced my problem-solving and troubleshooting skills by identifying, analyzing, and resolving technical issues during website development, maintenance, and deployment stages.",
 
-  "Learned negotiation techniques and conflict resolution skills. This helped me understand how to handle disagreements professionally and maintain positive workplace relationships."
+"Developed knowledge in database management, API integration, authentication systems, and payment gateway implementation through projects such as the Sienna Retreat Hotel Management System and E-Pal E-Commerce Platform.",
+
+"Improved my understanding of data engineering and business intelligence by designing ETL pipelines, data warehouses, and interactive dashboards in projects such as the Airbnb Business Intelligence System and Electric Vehicle Analytics Dashboard.",
+
+"Gained exposure to Artificial Intelligence and Machine Learning concepts through the development of AI-powered projects, including a Multi-Agent Culture Travel Guide System and a Language Assistant AI Bot using Python and API integrations.",
+
+"Learned the importance of project planning, documentation, and version control while managing multiple academic, freelance, and industry projects simultaneously.",
+
+"Developed a strong professional mindset by balancing university studies, internship responsibilities, and freelance projects, which improved my adaptability, time management, and commitment to continuous learning."
 ];
 
 const careerPlans = ["Short-Term", "Medium-Term", "Long-Term"];
