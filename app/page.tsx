@@ -177,6 +177,12 @@ const projects = [
     image: "/ccl.png",
     live: "https://cclacademy.lk/",
   },
+  {
+    title: "Mathale Aluviharaya temple web development",
+    description: " Developed a responsive educational website using React.js to showcase the history, culture, and religious significance of Aluvihare Rock Temple, featuring interactive content and a user-friendly design.",
+    image: "/aluviharaya.png",
+    live: "https://www.aluviharaya.lk/",
+  },
   
 ];
 
@@ -405,9 +411,6 @@ const projects = [
 
               {/* CONTENT */}
               <div className="p-6">
-                <h3 className="text-lg font-bold text-purple-600 mb-3">
-                  Week {i * 3 + 1} – {i * 3 + 3}
-                </h3>
 
                 <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
                   {text}
