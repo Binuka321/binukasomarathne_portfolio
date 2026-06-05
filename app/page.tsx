@@ -144,15 +144,15 @@ const certificates = [
   },
   {
     title: "Introdction to PHP (Allison Academy)",
-    image: "/3.PNG",
+    image: "/3.png",
   },
   {
     title: "React Javascript- Fundamentals to coding & new begining (Allison Academy)",
-    image: "/4.PNG",
+    image: "/4.png",
   },
   {
     title: "Get Started With PowerApps (Microsoft)",
-    image: "/5.PNG",
+    image: "/5.png",
   },
 
 ];
